@@ -30,21 +30,18 @@ The database is designed to support:
 * Monitoring issue/expiry dates and additional metadata
 * Logical consistency and referential integrity through primary and foreign keys
 
-## 📸 Application Screenshots
+## 📸 Application Screenshot
+ ![Screenshot from application](https://github.com/nurkaje/PersonalDocuments/blob/main/images/Untitled-2.png)
 
-*(You can place screenshots of the app in the `images/` folder and embed them here)*
-
-## 🔗 Demo or Video
-
-If you plan to upload a demo:
-🎥 [Application demo video](https://youtube.com/...) *(Insert link if available)*
+## 🔗 Video demonstration
+🎥 ![Video demonstration of an app](ovdje ide link)
 
 ## ✉️ Contact
 
 Feel free to reach out for feedback, questions, or suggestions!
-📧 Email: *\[[your.email@example.com](mailto:your.email@example.com)]*
-📱 Instagram: [@nurkaProduction](https://instagram.com/nurkaproduction)
-💼 LinkedIn: *\[your LinkedIn profile link]*
+📧 Email: ![Email for inquiries](nurkiceldin1@gmail.com)
+📱 Instagram: ![Instagram link for inquiries](instagram.com/nurkiceldin)
+💼 LinkedIn: ![LibkedIn profile](https://www.linkedin.com/in/eldin-nurkic-2b195a1a9/)
 
 ## ⭐ Feedback
 
