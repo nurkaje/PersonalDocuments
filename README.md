@@ -39,9 +39,9 @@ The database is designed to support:
 ## ✉️ Contact
 
 Feel free to reach out for feedback, questions, or suggestions!
-*📧 Email: [Email for inquiries](nurkiceldin1@gmail.com)
-*📱 Instagram: [Instagram link for inquiries](instagram.com/nurkiceldin)
-*💼 LinkedIn: [LibkedIn profile](https://www.linkedin.com/in/eldin-nurkic-2b195a1a9/)
+📧 Email: [Email for inquiries](nurkiceldin1@gmail.com)
+📱 Instagram: [Instagram link for inquiries](instagram.com/nurkiceldin)
+💼 LinkedIn: [LibkedIn profile](https://www.linkedin.com/in/eldin-nurkic-2b195a1a9/)
 
 ## ⭐ Feedback
 
